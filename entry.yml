@@ -1,0 +1,5 @@
+title: Bugfixovací kurz
+lead: Testovací kurz pro vychytání bugů okolo automatického přenačtení obsahu z gitu
+lessons:
+  - lessons/pokusna-lekce
+
